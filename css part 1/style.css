@@ -1,0 +1,42 @@
+ /* text allignment */
+ h1{
+    text-align: center;
+    color: red;
+}
+h2{
+    text-align: center;
+}
+h3{
+    text-align: right;
+    width: 50%;
+}
+h4{
+    text-align: right;
+    width: 50%;
+}
+h5{
+    text-align: right;
+    width: 50%;
+}
+h6{
+    text-align: right;
+    width: 50%;
+}
+/* textr decration */
+p{
+    text-align: left;
+    text-decoration: line-through;
+    line-height: 1.5;
+    letter-spacing: ;
+    font-family:Arial, Helvetica, sans-serif ;
+
+}
+/* textline height */
+.heading2
+{
+ font-size: 25px;
+ font-weight: 600;
+ background-color:#454545;
+ color: #fff;
+ padding: 10px;
+}

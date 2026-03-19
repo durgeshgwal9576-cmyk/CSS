@@ -1,0 +1,70 @@
+*{
+    font-family: Impact;
+  
+}
+h1,h3{
+    color: #b92b27;
+}
+#login{
+    background-color: #fff;
+}
+#signup {
+  background-color:#b92b27 ;
+  color: white;
+}
+.upvote{
+    background-color: green;
+    color: aliceblue;
+}
+p a{
+    background-color: yellow;
+}
+nav ul li a {
+    color: hotpink;
+}
+p+h3{
+    text-decoration: underline;
+}
+.upvote+button{
+    background-color: aquamarine;
+}
+div>input{
+    background-color: #dabcae;
+}
+input [name= "username"]{
+    color: red;
+}
+input [type= "password"]{
+    color: green;
+}
+input[placeholder="username"]::placeholder {
+    color: red;
+}
+input [placeholder ="password"]::placeholder{
+    color: green;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+h3:hover{
+    text-decoration : overline;
+}
+button:active{
+    background-color: hotpink;
+}
+p:active{
+    color: blue;
+    font-weight: bold;
+}
+input [type="radio"]:checked +label{
+    color: red;
+    font-weight: bold;
+}
+h1::first-letter{ 
+    color: black;
+}
+p::first-line{
+    color: blue;
+    font-weight: bold;
+}
