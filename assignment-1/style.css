@@ -1,0 +1,24 @@
+h1{
+    color: red;
+}
+h2{
+    color: rgb(6, 236, 3);
+}
+span{
+    background-color: yellow;
+}
+.main{
+    color: brown;
+    letter-spacing: 5px;
+}
+.box1{
+    font-size: 5px;
+    color: brown;
+}
+p{
+    color: brown;
+    font-size: 20px;
+}
+a{
+    background-color: yellow;
+}
